@@ -72,6 +72,7 @@ I'm a motivated individual with a passion for all things tech! Currently enrolle
 <h3 align="center">Projects</h1>
 
 [![SceneSherpa](https://github-readme-stats.vercel.app/api/pin/?username=jcepriano&repo=SceneSherpa)](https://github.com/jcepriano/SceneSherpa)
+[![SceneSherpa](https://github-readme-stats.vercel.app/api/pin/?username=jeremy-kimball&repo=DeveloperDashboard)](https://github.com/jeremy-kimball/DeveloperDashboard)
 <!--
 **jeremy-kimball/jeremy-kimball** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
