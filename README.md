@@ -9,7 +9,7 @@
 </div>
 
 <hr>
-I'm a motivated individual with a passion for all things tech! Currently enrolled in <a href="https://turing.edu/">Turing's School of Software and Design</a> learning to create fully featured web apps with a focus on backend development. On the side I've been enjoying learning the <a href="https://www.rust-lang.org/">Rust Language</a> for fun as I also have an interest in lower level programming.
+I'm a motivated individual with a passion for all things tech! Graduate of <a href="https://turing.edu/">Turing's School of Software and Design</a> with a focus on backend web development. On the side I've been enjoying learning the <a href="https://www.rust-lang.org/">Rust Language</a> for fun as I also have an interest in lower level programming.
 <hr>
 <h3 align="center">Technical Skills</h3>
 <div id="skills" align="center">
